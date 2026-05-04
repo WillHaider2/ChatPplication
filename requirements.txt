@@ -1,0 +1,19 @@
+# Core AI and LLM
+openai
+langchain
+langchain-community
+langchain-openai
+
+# Environment and Configuration
+python-dotenv
+
+# Web Interface
+streamlit
+
+# Data Processing
+pandas
+
+# Geolocation and Distance
+geopy
+opencage
+faiss-cpu

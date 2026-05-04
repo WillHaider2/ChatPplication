@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Virtual environment
+.venv/
+#anything you dont want pushed out
+rag_files/
+chat_step_1.py
+chat_step_2.py
+chat_step_3.py
+chat_step_4.py
+build_faiss_index.py
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/
+
+# PyCharm
+.idea/
